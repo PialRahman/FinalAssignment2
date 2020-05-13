@@ -65,13 +65,8 @@
     </head>
     <body>
         <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
                 <div class="top-right links">
-                  
-                   
-                </div>
-            @endif
-
+                   </div>
             <div class="content">
                 <div class="title m-b-md">
                     This is my Laravel Page
